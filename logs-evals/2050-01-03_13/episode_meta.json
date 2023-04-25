@@ -1,0 +1,11 @@
+{
+    "agent_seed": null,
+    "backend_type": "PandaPowerBackend_l2rpn_wcci_2022",
+    "chronics_max_timestep": "2017",
+    "chronics_path": "/home/ryl7673/data_grid2op/l2rpn_wcci_2022/chronics/2050-01-03_13",
+    "cumulative_reward": 47933.0546875,
+    "env_seed": null,
+    "env_type": "Environment_l2rpn_wcci_2022",
+    "grid_path": "/home/ryl7673/data_grid2op/l2rpn_wcci_2022/grid.json",
+    "nb_timestep_played": 222
+}
